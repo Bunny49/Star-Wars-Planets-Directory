@@ -1,0 +1,89 @@
+
+
+.App {
+  overflow-x: hidden; 
+  background-color: black;
+  color: white;
+}
+
+.App-header {
+  background-color: black;
+  color: orange;
+  padding: 20px 0;
+  font-family:Permanent Marker
+  ;
+}
+
+.container {
+  padding: 20px;
+}
+
+.heading-container {
+  text-align: center;
+}
+
+.heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+/* PlanetCard.css */
+.planet-card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+  margin-bottom: 20px;
+}
+
+.planet-card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.card-text {
+  margin-bottom: 8px;
+}
+
+.list-unstyled {
+  margin-left: 20px;
+}
+
+.list-unstyled li {
+  margin-bottom: 4px;
+}
+.heading {
+  font-style: italic; 
+  text-align: center; 
+  padding: 20px;
+
+}
+
+.text-align-left {
+  display: block; 
+  text-align: right; 
+  margin-top: 10px; 
+ 
+}
